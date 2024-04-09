@@ -1,0 +1,17 @@
+{
+  "name": "semillerobackapi",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "src/main.js",
+  "scripts": {
+    "format": "prettier --write \"**/*.{js,ts}\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Semillero Glab",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "prettier": "^3.2.5"
+  }
+}
