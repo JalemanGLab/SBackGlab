@@ -1,6 +1,7 @@
 import express from 'express'
 import prueba from './routers/pruebas.js'
 const app = express()
+
 app.use('/prueba', prueba)
 app.get('/', (req, res) => {
    res.send('hola semillero')

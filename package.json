@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.19.2",
-    "nodemo": "^1.0.0",
+    "nodemon": "^1.0.0",
     "prettier": "^3.2.5"
   }
 }
