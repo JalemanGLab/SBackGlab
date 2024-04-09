@@ -6,6 +6,7 @@
   "main": "src/main.js",
   "scripts": {
     "format": "prettier --write \"**/*.{js,ts}\"",
+    "start": "node src/main.js",
     "dev": "nodemon"
   },
   "author": "Semillero Glab",
